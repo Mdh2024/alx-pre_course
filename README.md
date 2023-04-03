@@ -1,2 +1,2 @@
 my first project 
-my second
+my second project
